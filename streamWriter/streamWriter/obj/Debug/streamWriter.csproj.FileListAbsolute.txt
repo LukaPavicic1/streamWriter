@@ -1,0 +1,7 @@
+C:\Users\korisnik\source\repos\streamWriter\streamWriter\bin\Debug\streamWriter.exe.config
+C:\Users\korisnik\source\repos\streamWriter\streamWriter\bin\Debug\streamWriter.exe
+C:\Users\korisnik\source\repos\streamWriter\streamWriter\bin\Debug\streamWriter.pdb
+C:\Users\korisnik\source\repos\streamWriter\streamWriter\obj\Debug\streamWriter.csproj.SuggestedBindingRedirects.cache
+C:\Users\korisnik\source\repos\streamWriter\streamWriter\obj\Debug\streamWriter.csproj.CoreCompileInputs.cache
+C:\Users\korisnik\source\repos\streamWriter\streamWriter\obj\Debug\streamWriter.exe
+C:\Users\korisnik\source\repos\streamWriter\streamWriter\obj\Debug\streamWriter.pdb
